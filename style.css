@@ -1,7 +1,7 @@
 body {
 	font-family: 'Roboto Slab', serif;
 }
-.navbar-custom{
+.navbar-custom{      /* Header menu color change*/
 	background-color: #282e3e;
 	color: #FFF;
 	border-radius: 0Px; padding: 10px;
@@ -15,18 +15,18 @@ body {
 	color:#fff; background-color: #82c434;
 
 }
-.navbar-custom .navbar-nav>li>a:hover{
+.navbar-custom .navbar-nav>li>a:hover{ /* Header Menu Hover changing of color*/
 	background-color: #82c434;
 
 }
-.navbar-custom .navbar-brand{
+.navbar-custom .navbar-brand{ /* Header Company Logo style*/
 	color: #fff;
 	font-size: 27px;
 	margin-left: 15px;
 }
-.navbar-custom .navbar-brand:hover{
+.navbar-custom .navbar-brand:hover{ /*Header Company logo Hover*/
 	color: #fff;
 	font-size: 27px;
 
 
-}
+}/* Header is complete*/
