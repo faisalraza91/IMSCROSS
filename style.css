@@ -36,3 +36,29 @@ body {
 	Padding:0Px;
 	margin: 0Px;
 }
+.carousel-caption{
+	color: white;
+	position: absolute;
+		top: 35%;
+		left: -20px;
+}
+b{
+	font-size: 40px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c434;
+}
+
+
+/*CSS FOR SERVICES SECTION*/
+
+
+
+#Services{				/*Id is defined by #*/
+font-size: 45px;
+border-bottom-style:ridge;
+font-weight:bold;
+border-bottom-color: #82c434; 
+}
+
+
