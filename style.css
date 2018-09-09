@@ -15,6 +15,14 @@ body {
 	color:#fff; background-color: #82c434;
 
 }
+
+
+.carousel-inner{      /*This is for making the header images slider height small */
+
+
+	height: 600px;
+}
+
 .navbar-custom .navbar-nav>li>a:hover{ /* Header Menu Hover changing of color*/
 	background-color: #82c434;
 
@@ -38,9 +46,8 @@ body {
 }
 .carousel-caption{
 	color: white;
-	position: absolute;
-		top: 35%;
-		left: -20px;
+		top: 30%;          /* THis is for the caption on the image slider. To adjust the left and right */
+		right: 250px;
 }
 b{
 	font-size: 40px;
@@ -48,6 +55,11 @@ b{
 	font-weight: bold;
 	border-bottom-color: #82c434;
 }
+
+/*CSS FOR ABOUT US SECTION*/
+
+#about    /*Id for css is always defined by # and for class by about */
+
 
 
 /*CSS FOR SERVICES SECTION*/
@@ -62,3 +74,10 @@ border-bottom-color: #82c434;
 }
 
 
+.column1{
+	border-style: solid; 
+	border-color: #999999;
+	border-width: 1px;
+	min-height: 350px;
+
+}
