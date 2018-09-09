@@ -49,6 +49,11 @@ b{
 	border-bottom-color: #82c434;
 }
 
+/*CSS FOR ABOUT US SECTION*/
+
+#about    /*Id for css is always defined by # and for class by about */
+
+
 
 /*CSS FOR SERVICES SECTION*/
 
@@ -62,3 +67,10 @@ border-bottom-color: #82c434;
 }
 
 
+.column1{
+	border-style: solid; 
+	border-color: #999999;
+	border-width: 1px;
+	min-height: 350px;
+
+}
