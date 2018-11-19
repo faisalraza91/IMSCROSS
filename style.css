@@ -20,7 +20,7 @@ body {
 .carousel-inner{      /*This is for making the header images slider height small */
 
 
-	height: 600px;
+	height: 675px;
 }
 
 .navbar-custom .navbar-nav>li>a:hover{ /* Header Menu Hover changing of color*/
@@ -80,4 +80,14 @@ border-bottom-color: #82c434;
 	border-width: 1px;
 	min-height: 350px;
 
+}
+
+.icons{
+	width: 130px;
+	font-size:60px;
+	background-color: #d9d9d9;
+	padding: 5px 10px;
+	height: 110px;
+	margin-top: -50px;
+	color: #82c434;
 }
